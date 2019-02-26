@@ -44,6 +44,12 @@
 	}
 }
 
+.feature-icon {
+	img {
+		height: 70px;
+	}
+}
+
 @include media( '>medium' ) {
 
 	.media {
